@@ -1,7 +1,7 @@
-package task1.Problem7;
+package task1.problem7;
 import java.util.Scanner;
 
-public class pr7 {
+public class Factor {
     public static int getFactor(int n) {
         int f = 1;
         for (int i = 1; i<=n; i++)

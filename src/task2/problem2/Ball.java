@@ -1,4 +1,4 @@
-package task2.Problem2;
+package task2.problem2;
 
 public class Ball {
     private double x = 0.0;

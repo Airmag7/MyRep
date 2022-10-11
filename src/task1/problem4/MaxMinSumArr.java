@@ -1,8 +1,8 @@
-package task1.Problem4;
+package task1.problem4;
 
 import java.util.Scanner;
 
-public class pr4 {
+public class MaxMinSumArr {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите количество элементов массива: ");

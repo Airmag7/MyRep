@@ -1,4 +1,4 @@
-package task2.Problem1;
+package task2.problem1;
 
 public class Author {
     private String name;

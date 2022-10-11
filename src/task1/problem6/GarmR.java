@@ -1,6 +1,6 @@
-package task1.Problem6;
+package task1.problem6;
 
-public class pr6 {
+public class GarmR {
     public static void main(String[] args) {
         double num;
         System.out.print ("Гармонический ряд: ");

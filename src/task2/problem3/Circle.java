@@ -1,4 +1,4 @@
-package task2.Problem3;
+package task2.problem3;
 
 public class Circle {
     private Point center;
