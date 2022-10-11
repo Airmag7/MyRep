@@ -24,6 +24,7 @@ public class BookPolka {
                 minBook = books.get(i);
             }
         }
+
         return minBook;
     }
     public Book latestBook(){
